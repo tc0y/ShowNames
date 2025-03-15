@@ -11,7 +11,7 @@
 
 ## Çalıştırma:
 
-1) [Release](https://github.com/tc0y/ShowNames/releases/download/2.89/ShowNames.zip) indir.
+1) [Release](https://github.com/tcoyemre/ShowNames/releases/download/2.89/ShowNames.zip) indir.
 2) Çalıştır `ShowNamesByTcoy.exe` (**VALORANT açık olmalıdır**)
 eğer çalışmaz ise [Python 3.10](https://www.python.org/downloads/release/python-3100/) indir ve path ekle
 
